@@ -12,7 +12,7 @@ ft_printf(cmd1, cmd 2, cmd 3, ...)
 
 hay archivo main.c de prueba.
 
-
+EJ:
 
 
 make
