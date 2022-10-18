@@ -6,7 +6,11 @@ Para usar hacer make
 
 se genera una libreria estatica llamada libftprintf.a
 
-en vez de usar printf(cmd1, cmd2,...) usar
+en vez de usar:
+
+printf(cmd1, cmd2,...) 
+
+usar:
 
 ft_printf(cmd1, cmd 2, cmd 3, ...)
 
