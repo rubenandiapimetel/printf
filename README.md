@@ -8,7 +8,7 @@ Para usar hacer
 
 se genera una libreria estatica llamada libftprintf.a
 
-en vez de usar:
+en el archivo main.c vez de usar:
 
 printf(cmd1, cmd2,...) 
 
