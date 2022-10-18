@@ -24,6 +24,6 @@ EJ:
 
 &>$make
 
-&>$gcc main.c libftprintf.a -o testout
+&>$gcc main.c libftprintf.a -o textosalida
 
-&>$./testout
+&>$./textosalida
