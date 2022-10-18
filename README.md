@@ -1,5 +1,5 @@
 # printf
-Recrea la funcion printf de C (stdio.h)
+Recrea la funcion variadica printf() de C (stdio.h)
 
 
 Para usar hacer 
