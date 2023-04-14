@@ -21,9 +21,9 @@ Dentro hay un archivo main.c de prueba.
 
 EJ:
 
+        $> make
 
-&>$make
+        $> gcc main.c libftprintf.a -o textosalida
 
-&>$gcc main.c libftprintf.a -o textosalida
+        $> ./textosalida
 
-&>$./textosalida
